@@ -1,4 +1,8 @@
 123一段测试git冲突解决的haha
+<<<<<<< HEAD
 master分支上做了修改
 冲突解决
 dev分支做修改
+one\tow分支上做了修改
+
+>>>>>>> master
